@@ -1,0 +1,4 @@
+/* Example CSS to disable kerning adjustments */
+p {
+  font-kerning: none;
+}
